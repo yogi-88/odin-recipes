@@ -12,3 +12,7 @@ Created ordered and unordered list for the receipies ingredients  and steps
 
     Languages : HTML
     Code Editor : VS Code
+
+### Deployed link 
+URL : https://yogi-88.github.io/odin-recipes/
+Github repo url : https://github.com/yogi-88/odin-recipes
